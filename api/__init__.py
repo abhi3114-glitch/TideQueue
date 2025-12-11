@@ -1,3 +1,0 @@
-"""
-TideQueue REST API
-"""
